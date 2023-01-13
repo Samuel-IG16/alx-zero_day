@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+pwd
+cd /root
+pwd
+ls
+touch old_school
+ls
+mv old_school new_school
+ls

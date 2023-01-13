@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+pwd
+cd /root
+pwd
+ls
+touch not_here
+ls
+mkdir /tmp/right_school
+mv not_here /tmp/right_school
+ls /tmp/right_school

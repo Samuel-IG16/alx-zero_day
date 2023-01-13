@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+pwd
+cd /root
+pwd
+ls
+touch ready_to_be_removed
+ls
+rm ready_to_be_removed
+ls

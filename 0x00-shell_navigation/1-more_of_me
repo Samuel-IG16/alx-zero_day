@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+pwd
+cd /root
+pwd
+ls
+touch school
+ls
+cp school /tmp
+cd /tmp
+pwd
+ls
