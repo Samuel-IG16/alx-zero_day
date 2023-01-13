@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+pwd
+cd /root
+pwd
+ls -l
+mkdir school_is_amazing
+ls -l
