@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-pwd
-cd /root
-pwd
-ls -l
-mkdir -p empty_directory
-ls -l
-rm -r empty_directory
-ls -l
