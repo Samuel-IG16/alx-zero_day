@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+pwd
+cd /root
+pwd
+ls -l
+mkdir 0x02_vi
+ls -l

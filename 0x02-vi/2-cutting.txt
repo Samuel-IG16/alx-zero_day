@@ -1,0 +1,1 @@
+yy # delete or cut the current line

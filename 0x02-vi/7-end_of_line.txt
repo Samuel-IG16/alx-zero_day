@@ -1,0 +1,1 @@
+A # move cursor to end of current line

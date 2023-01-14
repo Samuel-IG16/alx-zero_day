@@ -1,0 +1,1 @@
+I # move cursor to start of current line
