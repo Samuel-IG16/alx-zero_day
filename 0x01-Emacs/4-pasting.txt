@@ -1,0 +1,1 @@
+CTRL+y # Pasting text in emacs

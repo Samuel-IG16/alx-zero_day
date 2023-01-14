@@ -1,0 +1,1 @@
+CTRL+k # Cutting of text in emacs
